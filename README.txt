@@ -11,7 +11,7 @@ ajouter un fichier (encore jamais versionné):
 	git add  <nom fichier>
 
 mettre a jour les fichiers: 
-	git commit -m «commentaire » 
+	git commit -a -m «commentaire » 
 	git push
 
 
